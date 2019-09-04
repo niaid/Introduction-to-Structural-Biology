@@ -19,8 +19,8 @@ This talk will give an introduction to computational structural biology, illustr
 - Email bioinformatics@niaid.nih.gov or me if you any questions
 
 #### Resources
-- [Lecture Notes](https://nih-my.sharepoint.com/:f:/g/personal/wangq13_nih_gov/EhOYZz8AZKRAs1xocmpPaKwBPh37tuPUpRkkFWoS_a1Kyw?e=csLNHv)
-- [Data and R codes on OneDrive](https://nih-my.sharepoint.com/:f:/g/personal/wangq13_nih_gov/EhOYZz8AZKRAs1xocmpPaKwBPh37tuPUpRkkFWoS_a1Kyw?e=csLNHv)
+- [PowerPoint Presentation](https://nih.sharepoint.com/:p:/r/sites/GRP-NIAID-BioInformatics/SSS/SharedWithNIH/RML%20Workshop/Introduction%20to%20Structural%20Biology/RML%20Structural%20Biology.pptx?d=w47b95047507348e2aa24a01297efbfa5&csf=1&e=JdEYo0)
+- [Ligand file for docking](https://nih.sharepoint.com/:u:/r/sites/GRP-NIAID-BioInformatics/SSS/SharedWithNIH/RML%20Workshop/Introduction%20to%20Structural%20Biology/dac_3d_renum_vina.mol2?csf=1&e=wZ8TtD)
 
 #### Tools
 - [UCSF Chimera](https://www.cgl.ucsf.edu/chimera/download.html)
