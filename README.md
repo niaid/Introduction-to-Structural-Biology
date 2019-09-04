@@ -1,5 +1,5 @@
 # Introduction to Structural Biology
-This talk will give an introduction to computational structural biology, illustrated with hands-on exercises using UCSF Chimera. 
+This workshop session will give an introduction to computational structural biology, illustrated with hands-on exercises using UCSF Chimera. 
 
 #### Topics to be covered: 
 - Quick review of protein structure
