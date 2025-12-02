@@ -21,6 +21,7 @@ This workshop session will give an introduction to computational structural biol
 #### Resources
 - [PowerPoint Presentation](https://nih.sharepoint.com/:p:/r/sites/GRP-NIAID-BioInformatics/SSS/SharedWithNIH/RML%20Workshop/Introduction%20to%20Structural%20Biology/RML%20Structural%20Biology.pptx?d=w47b95047507348e2aa24a01297efbfa5&csf=1&e=JdEYo0)
 - [Ligand file for docking](https://nih.sharepoint.com/:u:/r/sites/GRP-NIAID-BioInformatics/SSS/SharedWithNIH/RML%20Workshop/Introduction%20to%20Structural%20Biology/dac_3d_renum_vina.mol2?csf=1&e=wZ8TtD)
+- [Protein_Databases_Part_1_MSB7104.subtitled.mp4](https://s3.amazonaws.com/proj-bip-prod-publicread/training/Introduction-to-Structural-Biology/Protein_Databases_Part_1_MSB7104.subtitled.mp4)
 
 #### Tools
 - [UCSF Chimera](https://www.cgl.ucsf.edu/chimera/download.html)
